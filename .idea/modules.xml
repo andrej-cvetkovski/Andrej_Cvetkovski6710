@@ -6,8 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture1/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/Lecture1/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture1/Exercise 2_debug/Exercise 2_debug.iml" filepath="$PROJECT_DIR$/Lecture1/Exercise 2_debug/Exercise 2_debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture1/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Lecture1/Exercise1/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture4/Exercise1_HeroStat/Exercise1_HeroStat.iml" filepath="$PROJECT_DIR$/Lecture4/Exercise1_HeroStat/Exercise1_HeroStat.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Exercise1_MagicCalculator/Exercise1_MagicCalculator.iml" filepath="$PROJECT_DIR$/Lecture2/Exercise1_MagicCalculator/Exercise1_MagicCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture03/Exercise1_NumberGenerator/Exercise1_NumberGenerator.iml" filepath="$PROJECT_DIR$/Lecture03/Exercise1_NumberGenerator/Exercise1_NumberGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture4/Exercise2_Car/Exercise2_Car.iml" filepath="$PROJECT_DIR$/Lecture4/Exercise2_Car/Exercise2_Car.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Exercise2_SecretAgent/Exercise2_SecretAgent.iml" filepath="$PROJECT_DIR$/Lecture2/Exercise2_SecretAgent/Exercise2_SecretAgent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture03/Exercise2_VaultofSecrets/Exercise2_VaultofSecrets.iml" filepath="$PROJECT_DIR$/Lecture03/Exercise2_VaultofSecrets/Exercise2_VaultofSecrets.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Exercise3_GuessingGame/Exercise3_GuessingGame.iml" filepath="$PROJECT_DIR$/Lecture2/Exercise3_GuessingGame/Exercise3_GuessingGame.iml" />
@@ -15,12 +17,15 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture1/Exercise/Exercise3_debug/Exercise3_debug.iml" filepath="$PROJECT_DIR$/Lecture1/Exercise/Exercise3_debug/Exercise3_debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture03/Exercise4_LoopofDoom/Exercise4_LoopofDoom.iml" filepath="$PROJECT_DIR$/Lecture03/Exercise4_LoopofDoom/Exercise4_LoopofDoom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Exercise4_WeatherOracle/Exercise4_WeatherOracle.iml" filepath="$PROJECT_DIR$/Lecture2/Exercise4_WeatherOracle/Exercise4_WeatherOracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture4/Exercise5_Dungeon/Exercise5_Dungeon.iml" filepath="$PROJECT_DIR$/Lecture4/Exercise5_Dungeon/Exercise5_Dungeon.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Exercise5_KnightsChallenge/Exercise5_KnightsChallenge.iml" filepath="$PROJECT_DIR$/Lecture2/Exercise5_KnightsChallenge/Exercise5_KnightsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture4/Exercise6_InventoryManager/Exercise6_InventoryManager.iml" filepath="$PROJECT_DIR$/Lecture4/Exercise6_InventoryManager/Exercise6_InventoryManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Exercise7_TimeTraveler/Exercise7_TimeTraveler.iml" filepath="$PROJECT_DIR$/Lecture2/Exercise7_TimeTraveler/Exercise7_TimeTraveler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Exercise7_TreasureHunt/Exercise7_TreasureHunt.iml" filepath="$PROJECT_DIR$/Lecture2/Exercise7_TreasureHunt/Exercise7_TreasureHunt.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture03/Lecture03.iml" filepath="$PROJECT_DIR$/Lecture03/Lecture03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture1/Lecture1.iml" filepath="$PROJECT_DIR$/Lecture1/Lecture1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Lecture2.iml" filepath="$PROJECT_DIR$/Lecture2/Lecture2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/Lecture4/Lecture4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture1/untitled/untitled.iml" filepath="$PROJECT_DIR$/Lecture1/untitled/untitled.iml" />
     </modules>
   </component>
