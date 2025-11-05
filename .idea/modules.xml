@@ -37,6 +37,9 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/Lecture4/Lecture4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Lecture5.iml" filepath="$PROJECT_DIR$/Lecture5/Lecture5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture6/Lecture6.iml" filepath="$PROJECT_DIR$/Lecture6/Lecture6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidTermExam_202511/MidTermExam_202511.iml" filepath="$PROJECT_DIR$/MidTermExam_202511/MidTermExam_202511.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidTermExam_202511/Task1_Loops_and_Conditionals/Task1_Loops_and_Conditionals.iml" filepath="$PROJECT_DIR$/MidTermExam_202511/Task1_Loops_and_Conditionals/Task1_Loops_and_Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidTermExam_202511/Task2_ClassCreation_and_ArrayListofObjects/Task2_ClassCreation_and_ArrayListofObjects.iml" filepath="$PROJECT_DIR$/MidTermExam_202511/Task2_ClassCreation_and_ArrayListofObjects/Task2_ClassCreation_and_ArrayListofObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture1/untitled/untitled.iml" filepath="$PROJECT_DIR$/Lecture1/untitled/untitled.iml" />
     </modules>
   </component>
