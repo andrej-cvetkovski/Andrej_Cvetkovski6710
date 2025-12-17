@@ -14,8 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Exercise1_HeroStat/Exercise1_HeroStat.iml" filepath="$PROJECT_DIR$/Lecture4/Exercise1_HeroStat/Exercise1_HeroStat.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Exercise1_MagicCalculator/Exercise1_MagicCalculator.iml" filepath="$PROJECT_DIR$/Lecture2/Exercise1_MagicCalculator/Exercise1_MagicCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture03/Exercise1_NumberGenerator/Exercise1_NumberGenerator.iml" filepath="$PROJECT_DIR$/Lecture03/Exercise1_NumberGenerator/Exercise1_NumberGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture12/Exercise1_s/Exercise1_s.iml" filepath="$PROJECT_DIR$/Lecture12/Exercise1_s/Exercise1_s.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Exercise2Utility_Management/Exercise2Utility_Management.iml" filepath="$PROJECT_DIR$/Lecture5/Exercise2Utility_Management/Exercise2Utility_Management.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture7/Exercise2_/Exercise2_.iml" filepath="$PROJECT_DIR$/Lecture7/Exercise2_/Exercise2_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture12/Exercise2_AdvancedDemo/Exercise2_AdvancedDemo.iml" filepath="$PROJECT_DIR$/Lecture12/Exercise2_AdvancedDemo/Exercise2_AdvancedDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Exercise2_Car/Exercise2_Car.iml" filepath="$PROJECT_DIR$/Lecture4/Exercise2_Car/Exercise2_Car.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture6/Exercise2_CookieFactory/Exercise2_CookieFactory.iml" filepath="$PROJECT_DIR$/Lecture6/Exercise2_CookieFactory/Exercise2_CookieFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture8/Exercise2_InvoiceTest/Exercise2_InvoiceTest.iml" filepath="$PROJECT_DIR$/Lecture8/Exercise2_InvoiceTest/Exercise2_InvoiceTest.iml" />
@@ -43,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Exercise7_TreasureHunt/Exercise7_TreasureHunt.iml" filepath="$PROJECT_DIR$/Lecture2/Exercise7_TreasureHunt/Exercise7_TreasureHunt.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture03/Lecture03.iml" filepath="$PROJECT_DIR$/Lecture03/Lecture03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture1/Lecture1.iml" filepath="$PROJECT_DIR$/Lecture1/Lecture1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture12/Lecture12.iml" filepath="$PROJECT_DIR$/Lecture12/Lecture12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture2/Lecture2.iml" filepath="$PROJECT_DIR$/Lecture2/Lecture2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/Lecture4/Lecture4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Lecture5.iml" filepath="$PROJECT_DIR$/Lecture5/Lecture5.iml" />
